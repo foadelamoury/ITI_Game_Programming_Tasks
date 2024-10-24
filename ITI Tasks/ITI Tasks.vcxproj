@@ -18,6 +18,19 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="InventorySystem.h" />
+    <ClInclude Include="LibrariesIncluded.h" />
+    <ClInclude Include="PlayerStructs.h" />
+    <ClInclude Include="PowerAndFactorial.h" />
+    <ClInclude Include="TimeTable.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="InventorySystem.cpp" />
+    <ClCompile Include="PowerAndFactorial.cpp" />
+    <ClCompile Include="StructsAndPointersMain.cpp" />
+    <ClCompile Include="TimeTable.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

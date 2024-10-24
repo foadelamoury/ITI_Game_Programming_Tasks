@@ -1,7 +1,47 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\PowerAndFactorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\PowerAndFactorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\PowerAndFactorial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\PowerAndFactorial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\StructsAndPointersMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\StructsAndPointersMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\PlayerStructs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\PlayerStructs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\InventorySystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\InventorySystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\InventorySystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\InventorySystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\LibrariesIncluded.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\LibrariesIncluded.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\TimeTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\TimeTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\TimeTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\TimeTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,6 +106,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventorySystem.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\InventorySystem.h",
+              "RelativeDocumentMoniker": "ITI Tasks\\InventorySystem.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\InventorySystem.h",
+              "RelativeToolTip": "ITI Tasks\\InventorySystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T19:36:48.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventorySystem.cpp",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\InventorySystem.cpp",
+              "RelativeDocumentMoniker": "ITI Tasks\\InventorySystem.cpp",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\InventorySystem.cpp",
+              "RelativeToolTip": "ITI Tasks\\InventorySystem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T19:37:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PowerAndFactorial.cpp",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\PowerAndFactorial.cpp",
+              "RelativeDocumentMoniker": "ITI Tasks\\PowerAndFactorial.cpp",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\PowerAndFactorial.cpp",
+              "RelativeToolTip": "ITI Tasks\\PowerAndFactorial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T20:02:55.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerStructs.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\PlayerStructs.h",
+              "RelativeDocumentMoniker": "ITI Tasks\\PlayerStructs.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\PlayerStructs.h",
+              "RelativeToolTip": "ITI Tasks\\PlayerStructs.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T19:56:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StructsAndPointersMain.cpp",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\StructsAndPointersMain.cpp",
+              "RelativeDocumentMoniker": "ITI Tasks\\StructsAndPointersMain.cpp",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\StructsAndPointersMain.cpp",
+              "RelativeToolTip": "ITI Tasks\\StructsAndPointersMain.cpp",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwFcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T19:45:43.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PowerAndFactorial.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\PowerAndFactorial.h",
+              "RelativeDocumentMoniker": "ITI Tasks\\PowerAndFactorial.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\PowerAndFactorial.h",
+              "RelativeToolTip": "ITI Tasks\\PowerAndFactorial.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T20:03:01.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibrariesIncluded.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\LibrariesIncluded.h",
+              "RelativeDocumentMoniker": "ITI Tasks\\LibrariesIncluded.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\LibrariesIncluded.h",
+              "RelativeToolTip": "ITI Tasks\\LibrariesIncluded.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T19:38:29.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.CppCommon.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ViewState": "AgIAAOMCAAAAAAAAAADwv/ICAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-24T20:21:40.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimeTable.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\TimeTable.h",
+              "RelativeDocumentMoniker": "ITI Tasks\\TimeTable.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\TimeTable.h",
+              "RelativeToolTip": "ITI Tasks\\TimeTable.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T19:36:13.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimeTable.cpp",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\TimeTable.cpp",
+              "RelativeDocumentMoniker": "ITI Tasks\\TimeTable.cpp",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\TimeTable.cpp",
+              "RelativeToolTip": "ITI Tasks\\TimeTable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T19:37:05.804Z",
+              "EditorCaption": ""
             }
           ]
         },

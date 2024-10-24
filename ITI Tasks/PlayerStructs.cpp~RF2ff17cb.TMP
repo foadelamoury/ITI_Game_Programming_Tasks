@@ -1,0 +1,28 @@
+#include "./PlayerStructs.h";
+
+
+void StructValues()
+{
+	Game Game1;
+	Game1.Score = 0;
+	Game1.Time = "10:30";
+	Game1.Player.Health = 100;
+	Game1.Player.Name = "G-Man";
+
+	Character Enemy;
+
+	Enemy.Health = 100;
+	Enemy.Name = "Freeman";
+
+
+	Level Level1;
+
+	Level1.Enemies = 5;
+	Level1.Number = 1;
+	Level1.Chests = 3;
+
+	cout << "size of Game is: " << sizeof(Game1) << endl;
+	cout << "size of Level is: " << sizeof(Level1) << endl;
+	cout << "size of Enemy is: " << sizeof(Enemy) << endl;
+	cout << "size of Player is: " << sizeof(Game1.Player) << endl;
+}

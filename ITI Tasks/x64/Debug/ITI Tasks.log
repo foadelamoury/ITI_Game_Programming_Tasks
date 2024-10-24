@@ -1,0 +1,11 @@
+﻿  PowerAndFactorial.cpp
+C:\Game Development\C++\ITI Tasks\ITI Tasks\PowerAndFactorial.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'PowerAndFactorial.cpp')
+  
+C:\Game Development\C++\ITI Tasks\ITI Tasks\LibrariesIncluded.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'PowerAndFactorial.cpp')
+  
+C:\Game Development\C++\ITI Tasks\ITI Tasks\LibrariesIncluded.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'PowerAndFactorial.cpp')
+  
+  ITI Tasks.vcxproj -> C:\Game Development\C++\ITI Tasks\x64\Debug\ITI Tasks.exe
