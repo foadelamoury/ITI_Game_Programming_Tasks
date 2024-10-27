@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\LinkedLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\LinkedLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,6 +71,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedLists.cpp",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\LinkedLists.cpp",
+              "RelativeDocumentMoniker": "ITI Tasks\\LinkedLists.cpp",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\LinkedLists.cpp",
+              "RelativeToolTip": "ITI Tasks\\LinkedLists.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T13:32:17.283Z",
+              "EditorCaption": ""
             }
           ]
         },
