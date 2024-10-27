@@ -1,0 +1,3 @@
+﻿  LinkedLists.cpp
+C:\Game Development\C++\ITI Tasks\ITI Tasks\LinkedLists.cpp(218,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ITI Tasks.vcxproj -> C:\Game Development\C++\ITI Tasks\x64\Debug\ITI Tasks.exe
