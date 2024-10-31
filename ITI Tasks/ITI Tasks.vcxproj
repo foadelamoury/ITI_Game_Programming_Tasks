@@ -18,6 +18,13 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ComplexNumber.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ComplexNumber.cpp" />
+    <ClCompile Include="Day5.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
