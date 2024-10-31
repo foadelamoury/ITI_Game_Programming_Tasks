@@ -11,7 +11,7 @@ public:
 
 	ComplexNumber();
 
-	
+	ComplexNumber(ComplexNumber& complexNumber);
 	ComplexNumber(int real, int imaginary);
 	ComplexNumber(std::string greetings);
 	int GetRealNumber();

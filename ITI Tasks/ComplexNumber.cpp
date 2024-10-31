@@ -30,10 +30,22 @@ ComplexNumber::ComplexNumber(string greetings)
 	std::cout<<"Hello from "+greetings<<std::endl;
 }
 
+ComplexNumber::ComplexNumber(ComplexNumber& clone)
+{
+	this->real = 0;
+	this->imaginary = 0;
+	ComplexNumber::objectCounter++;
+
+	std::cout << "Hello Clone" << std::endl;
+}
+
 
 ComplexNumber::~ComplexNumber()
 {
+	ComplexNumber::objectCounter--;
 	std::cout<<"Goodbye Object"<<std::endl;
+	std::cout << " Object Counter: " << ComplexNumber::objectCounter << "" << std::endl;
+
 }
 
 
