@@ -1,0 +1,12 @@
+#include "Person.h"
+
+class Doctor : public Person
+{
+private :
+	int YearsOfExperience;
+public:
+	Doctor(int experience);
+
+	void ExaminePatient();
+};
+

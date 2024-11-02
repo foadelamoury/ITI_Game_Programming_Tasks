@@ -1,0 +1,26 @@
+#include "Doctor.h"
+#include "Medecine.h"
+#include "Person.h"
+class Patient : public Person
+{
+public:
+
+	std::vector<Medecine> Meds;
+
+	Doctor* doctor;
+
+Patient(int Age, int Height, int Weight) : Person(0, 0, 0) {
+
+	age=Age;
+	height=Height;
+	weight=Weight;
+
+}
+		void DescribePain();
+		
+
+
+
+
+};
+

@@ -103,6 +103,39 @@ void ComplexNumber::operator=(ComplexNumber& complexNumber)
 
 }
 
+ComplexNumber  &ComplexNumber::operator++()
+{
+	ComplexNumber temp = *this;
+
+	++real;
+	++imaginary;
+	return temp; 
+}
+
+ComplexNumber & ComplexNumber::operator--()
+{
+	--real;
+	--imaginary;
+	return *this; 
+}
+
+ComplexNumber & ComplexNumber::operator++(int)
+{
+	ComplexNumber temp = *this;
+
+	real++;
+	imaginary++;
+	return temp;
+}
+
+ComplexNumber& ComplexNumber::operator--(int)
+{
+	real--;
+	imaginary--;
+	return *this;
+}
+
+
 #pragma endregion
 #pragma region Boolean Operator Overloading
 

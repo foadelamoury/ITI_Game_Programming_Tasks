@@ -1,0 +1,13 @@
+#include "Patient.h"
+#include <iostream>
+Patient::Patient(int age, int height, int weight)
+{
+	this->age = age;
+	this->height = height;
+	this->weight = weight;
+}
+
+void Patient::DescribePain()
+{
+	std::cout << "Patient describes pain" << std::endl;
+}

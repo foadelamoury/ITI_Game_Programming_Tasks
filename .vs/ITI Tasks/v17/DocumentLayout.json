@@ -7,12 +7,48 @@
       "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\Day6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\ComplexNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\ComplexNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Medecine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\Medecine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Doctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\Doctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\Patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Doctor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\Doctor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Patient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\Patient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\ComplexNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\ComplexNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\ComplexNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\ComplexNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\MedicalEquipment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\MedicalEquipment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Organ.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63768D5-6806-4B58-8B2D-54ABAEE00021}|ITI Tasks\\ITI Tasks.vcxproj|solutionrelative:ITI Tasks\\Organ.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +58,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 25,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Person.h",
+              "RelativeDocumentMoniker": "ITI Tasks\\Person.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Person.h",
+              "RelativeToolTip": "ITI Tasks\\Person.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T10:00:50.491Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Patient.h",
+              "RelativeDocumentMoniker": "ITI Tasks\\Patient.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Patient.h",
+              "RelativeToolTip": "ITI Tasks\\Patient.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T10:00:10.813Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Doctor.h",
+              "RelativeDocumentMoniker": "ITI Tasks\\Doctor.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Doctor.h",
+              "RelativeToolTip": "ITI Tasks\\Doctor.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T09:58:52.966Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cpp",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Patient.cpp",
+              "RelativeDocumentMoniker": "ITI Tasks\\Patient.cpp",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Patient.cpp",
+              "RelativeToolTip": "ITI Tasks\\Patient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T10:13:29.985Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cpp",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Doctor.cpp",
+              "RelativeDocumentMoniker": "ITI Tasks\\Doctor.cpp",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Doctor.cpp",
+              "RelativeToolTip": "ITI Tasks\\Doctor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T10:12:39.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Person.cpp",
+              "RelativeDocumentMoniker": "ITI Tasks\\Person.cpp",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Person.cpp",
+              "RelativeToolTip": "ITI Tasks\\Person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T10:11:06.747Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -82,29 +202,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ComplexNumber.cpp",
-              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\ComplexNumber.cpp",
-              "RelativeDocumentMoniker": "ITI Tasks\\ComplexNumber.cpp",
-              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\ComplexNumber.cpp",
-              "RelativeToolTip": "ITI Tasks\\ComplexNumber.cpp",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAkwIAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-02T08:10:51.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "ComplexNumber.h",
               "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\ComplexNumber.h",
               "RelativeDocumentMoniker": "ITI Tasks\\ComplexNumber.h",
               "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\ComplexNumber.h",
               "RelativeToolTip": "ITI Tasks\\ComplexNumber.h",
-              "ViewState": "AgIAABwAAAAAAAAAAADwvxkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-02T08:10:38.171Z",
+              "WhenOpened": "2024-11-02T10:29:09.029Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComplexNumber.cpp",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\ComplexNumber.cpp",
+              "RelativeDocumentMoniker": "ITI Tasks\\ComplexNumber.cpp",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\ComplexNumber.cpp",
+              "RelativeToolTip": "ITI Tasks\\ComplexNumber.cpp",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAcwIQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T10:28:55.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Organ.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Organ.h",
+              "RelativeDocumentMoniker": "ITI Tasks\\Organ.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Organ.h",
+              "RelativeToolTip": "ITI Tasks\\Organ.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T10:27:26.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Medecine.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Medecine.h",
+              "RelativeDocumentMoniker": "ITI Tasks\\Medecine.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Medecine.h",
+              "RelativeToolTip": "ITI Tasks\\Medecine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T10:25:51.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedicalEquipment.h",
+              "DocumentMoniker": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\MedicalEquipment.h",
+              "RelativeDocumentMoniker": "ITI Tasks\\MedicalEquipment.h",
+              "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\MedicalEquipment.h",
+              "RelativeToolTip": "ITI Tasks\\MedicalEquipment.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-02T10:22:23.283Z"
             },
             {
               "$type": "Document",
@@ -114,7 +271,7 @@
               "RelativeDocumentMoniker": "ITI Tasks\\Day6.cpp",
               "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Day6.cpp",
               "RelativeToolTip": "ITI Tasks\\Day6.cpp",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAMwDoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-02T07:11:16.203Z",
               "EditorCaption": ""

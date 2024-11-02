@@ -1,3 +1,5 @@
+#pragma once
+
 #include <string>
 class ComplexNumber
 {
@@ -24,6 +26,15 @@ public:
 	ComplexNumber operator+(ComplexNumber& complexNumber);
 	ComplexNumber operator-(ComplexNumber& complexNumber);
 	void operator=(ComplexNumber& complexNumber);
+
+	
+
+	ComplexNumber & operator++();
+	ComplexNumber & operator--();
+
+	ComplexNumber& operator++(int);
+	ComplexNumber& operator--(int);
+
 
 #pragma endregion
 #pragma region Boolean Operator Overloading

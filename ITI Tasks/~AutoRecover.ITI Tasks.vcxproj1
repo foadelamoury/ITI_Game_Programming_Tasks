@@ -21,10 +21,18 @@
   <ItemGroup>
     <ClCompile Include="ComplexNumber.cpp" />
     <ClCompile Include="Day6.cpp" />
+    <ClCompile Include="Doctor.cpp" />
+    <ClCompile Include="MedicalEquipment.cpp" />
+    <ClCompile Include="Patient.cpp" />
+    <ClCompile Include="Person.cpp" />
     <ClCompile Include="Vector3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ComplexNumber.h" />
+    <ClInclude Include="Doctor.h" />
+    <ClInclude Include="MedicalEquipment.h" />
+    <ClInclude Include="Patient.h" />
+    <ClInclude Include="Person.h" />
     <ClInclude Include="Vector3.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
