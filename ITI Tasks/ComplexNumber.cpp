@@ -95,13 +95,11 @@ ComplexNumber ComplexNumber::operator-(ComplexNumber& complexNumber)
 	return result;
 
 }
-ComplexNumber ComplexNumber::operator=(ComplexNumber& complexNumber)
+void ComplexNumber::operator=(ComplexNumber& complexNumber)
 {
-	ComplexNumber result = ComplexNumber(0, 0);
 
-	result.real = real = complexNumber.real;
-	result.imaginary = imaginary = complexNumber.imaginary;
-	 return result;
+	 this->real = complexNumber.real;
+	this->imaginary = complexNumber.imaginary;
 
 }
 
@@ -128,7 +126,7 @@ bool ComplexNumber::operator!=(ComplexNumber& complexNumber)
 }
 ComplexNumber::operator int()
 {
-	return real+imaginary;
+	return (real*real)+((imaginary*imaginary)*-1);
 }
 #pragma endregion
 

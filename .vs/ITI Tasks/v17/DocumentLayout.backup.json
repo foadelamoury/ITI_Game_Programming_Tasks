@@ -88,9 +88,10 @@
               "RelativeDocumentMoniker": "ITI Tasks\\ComplexNumber.cpp",
               "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\ComplexNumber.cpp",
               "RelativeToolTip": "ITI Tasks\\ComplexNumber.cpp",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAswHsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwIAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-02T08:10:51.451Z"
+              "WhenOpened": "2024-11-02T08:10:51.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -100,9 +101,10 @@
               "RelativeDocumentMoniker": "ITI Tasks\\ComplexNumber.h",
               "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\ComplexNumber.h",
               "RelativeToolTip": "ITI Tasks\\ComplexNumber.h",
-              "ViewState": "AgIAABcAAAAAAAAAAAA7wCQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvxkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-02T08:10:38.171Z"
+              "WhenOpened": "2024-11-02T08:10:38.171Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -112,7 +114,7 @@
               "RelativeDocumentMoniker": "ITI Tasks\\Day6.cpp",
               "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Day6.cpp",
               "RelativeToolTip": "ITI Tasks\\Day6.cpp",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-02T07:11:16.203Z",
               "EditorCaption": ""

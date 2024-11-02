@@ -23,7 +23,7 @@ public:
 #pragma region Operator Overloading
 	ComplexNumber operator+(ComplexNumber& complexNumber);
 	ComplexNumber operator-(ComplexNumber& complexNumber);
-	ComplexNumber operator=(ComplexNumber& complexNumber);
+	void operator=(ComplexNumber& complexNumber);
 
 #pragma endregion
 #pragma region Boolean Operator Overloading
