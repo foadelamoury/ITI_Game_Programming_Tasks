@@ -71,8 +71,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-02T10:00:50.491Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -85,8 +84,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-02T10:00:10.813Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -99,8 +97,7 @@
               "ViewState": "AgIAAAEAAAAAAAAAAAAMwAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-02T09:58:52.966Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -113,8 +110,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-02T10:13:29.985Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-02T10:12:39.272Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -141,8 +136,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-02T10:11:06.747Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -210,8 +204,7 @@
               "RelativeToolTip": "ITI Tasks\\ComplexNumber.h",
               "ViewState": "AgIAACEAAAAAAAAAAAAowAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-02T10:29:09.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T10:29:09.029Z"
             },
             {
               "$type": "Document",
@@ -223,8 +216,7 @@
               "RelativeToolTip": "ITI Tasks\\ComplexNumber.cpp",
               "ViewState": "AgIAAHkAAAAAAAAAAAAcwIQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-02T10:28:55.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T10:28:55.778Z"
             },
             {
               "$type": "Document",
@@ -248,8 +240,7 @@
               "RelativeToolTip": "ITI Tasks\\Medecine.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-02T10:25:51.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T10:25:51.047Z"
             },
             {
               "$type": "Document",
@@ -271,7 +262,7 @@
               "RelativeDocumentMoniker": "ITI Tasks\\Day6.cpp",
               "ToolTip": "C:\\Game Development\\C\u002B\u002B\\ITI Tasks\\ITI Tasks\\Day6.cpp",
               "RelativeToolTip": "ITI Tasks\\Day6.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAMwDoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-02T07:11:16.203Z",
               "EditorCaption": ""

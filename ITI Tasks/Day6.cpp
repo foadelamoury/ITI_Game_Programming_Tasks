@@ -38,12 +38,12 @@ int main()
 #pragma endregion
 
 #pragma region Bonus Overload Operator
-	
+	/*
 	std::cout << "Complex Number: " << (Cn3++).GetRealNumber() << " + " << (Cn3).GetImaginaryNumber() << " i " << std::endl;
 
 	std::cout << "Complex Number: " << (Cn3).GetRealNumber() << " + " << (Cn3).GetImaginaryNumber() << " i " << std::endl;
 
-	std::cout << "Complex Number: " << (--Cn3).GetRealNumber() << " + " << (Cn3).GetImaginaryNumber() << " i " << std::endl;
+	std::cout << "Complex Number: " << (--Cn3).GetRealNumber() << " + " << (Cn3).GetImaginaryNumber() << " i " << std::endl;*/
 
 #pragma endregion
 
