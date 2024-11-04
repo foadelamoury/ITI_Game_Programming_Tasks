@@ -1,0 +1,6 @@
+﻿  AreaCalculation.cpp
+C:\Game Development\C++\ITI Tasks\ITI Tasks\AreaCalculation.cpp(30,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Game Development\C++\ITI Tasks\ITI Tasks\AreaCalculation.cpp(44,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Game Development\C++\ITI Tasks\ITI Tasks\AreaCalculation.cpp(63,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Game Development\C++\ITI Tasks\ITI Tasks\AreaCalculation.cpp(83,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ITI Tasks.vcxproj -> C:\Game Development\C++\ITI Tasks\x64\Debug\ITI Tasks.exe
